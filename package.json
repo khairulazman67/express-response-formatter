@@ -1,11 +1,12 @@
 {
   "name": "@hananan67/express-response-formatter",
-  "version": "1.0.1",
+  "version": "1.0.9",
   "description": "Middleware untuk formatting response dan error handling di Express.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "README.md"
   ],
   "license": "MIT",
   "private": false,
